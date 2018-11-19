@@ -1,0 +1,10 @@
+# Java
+target
+
+# IntelliJ files
+*.iml
+.idea
+.idea/workspace.xml
+
+out
+.gradle
